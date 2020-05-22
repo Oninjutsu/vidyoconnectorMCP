@@ -63,9 +63,6 @@
 		
 		<source-file src="src/android/res/layout/activity_main.xml" target-dir="res/layout" />
 		
-		
-	
-		<source-file src="src/android/res/values/styles.xml" target-dir="res/values" />
 
 
 		<hook type="after_plugin_install" src="scripts/hook-add-r-import.js"/>
