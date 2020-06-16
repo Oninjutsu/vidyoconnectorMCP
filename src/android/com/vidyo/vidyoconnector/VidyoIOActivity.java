@@ -26,7 +26,7 @@ import android.widget.ToggleButton;
 This is the APP IDENTIFIER FROM OS*/
 //import com.outsystemscloud.elizabethsumaldetesi.Vidyo.IO.R;
 
-import ph.com.tesi.enterprisedev.MarCoPayDigitalKYC.R;
+import com.outsystemsenterprise.marcopayincdev.MarCoPayDigitalKYC.R;
 /*
 import com.vidyo.vidyoiohybrid.R;
 /*import com.outsystemsenterprise.medtronicdev.R;*/
